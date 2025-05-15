@@ -79,7 +79,7 @@ importers:
         specifier: ^16.4.5
         version: 16.5.0
       typescript:
-        specifier: ^5.2.2
+        specifier: ^5.8.3
         version: 5.8.3
       vite:
         specifier: ^6.3.4
