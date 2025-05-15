@@ -15,7 +15,7 @@ importers:
         specifier: ^11.14.0
         version: 11.14.0(@types/react@18.3.21)(react@18.3.1)
       '@tanstack/react-query':
-        specifier: ^5.28.14
+        specifier: ^5.76.1
         version: 5.76.1(react@18.3.1)
       '@tanstack/react-query-devtools':
         specifier: ^5.74.9
